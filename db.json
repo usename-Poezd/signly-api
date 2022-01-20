@@ -1,0 +1,82 @@
+[
+    {
+        "label": 1,
+        "eng": "Gde tualet",
+        "russian": "Где туалет?"
+    },
+    {
+        "label": 2,
+        "eng": "gluhoi",
+        "russian": "глухой"
+    },
+    {
+        "label": 3,
+        "eng": "goodbye",
+        "russian": "Пока"
+    },
+    {
+        "label": 4,
+        "eng": "hello",
+        "russian": "Здравствуйте"
+    },
+    {
+        "label": 5,
+        "eng": "hi",
+        "russian": "Привет"
+    },
+    {
+        "label": 6,
+        "eng": "how",
+        "russian": "Как"
+    },
+    {
+        "label": 7,
+        "eng": "I",
+        "russian": "я"
+    },
+    {
+        "label": 8,
+        "eng": "I need help",
+        "russian": "Мне нужна помощь"
+    },
+    {
+        "label": 9,
+        "eng": "last",
+        "russian": "последний"
+    },
+    {
+        "label": 10,
+        "eng": "queue",
+        "russian": "очередь"
+    },
+    {
+        "label": 11,
+        "eng": "thanks",
+        "russian": "спасибо"
+    },
+    {
+        "label": 12,
+        "eng": "things",
+        "russian": "дела"
+    },
+    {
+        "label": 13,
+        "eng": "Where is bus station",
+        "russian": "Где автобусная остановка?"
+    },
+    {
+        "label": 14,
+        "eng": "Where is subway station",
+        "russian": "Где спуск в метро?"
+    },
+    {
+        "label": 15,
+        "eng": "who",
+        "russian": "Кто"
+    },
+    {
+        "label": 16,
+        "eng": "you",
+        "russian": "ты"
+    }
+]

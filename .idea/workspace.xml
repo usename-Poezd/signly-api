@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12766748-0202-4f53-84c1-7995b5200796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/VideoTransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/models/mediapipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/models/sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/handler/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/handler/api/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/handler/api/v1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/handler/api/v1/handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../action.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../../action.h5" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="d335eaf0-ac74-4eb5-bc60-b78fa427cebd" />
+  <component name="ProjectId" id="20rrHNrFQlYg6FLy6HLBGsWXvTw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\FREE WORK\ai\hand sign\app\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\FREE WORK\ai\hand sign\app\api\app\config" />
+      <recent name="D:\Work\FREE WORK\ai\hand sign\app\api\app\db" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ARTEM-LAPTOP\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.mongo: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mongo" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml.mongo: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12766748-0202-4f53-84c1-7995b5200796" name="Default Changelist" comment="" />
+      <created>1636813458816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636813458816</updated>
+      <workItem from="1636813463894" duration="4215000" />
+      <workItem from="1636819597404" duration="2815000" />
+      <workItem from="1636983502995" duration="1972000" />
+      <workItem from="1637422145119" duration="14567000" />
+      <workItem from="1637492601969" duration="1449000" />
+      <workItem from="1637499998468" duration="2311000" />
+      <workItem from="1638554910811" duration="10781000" />
+      <workItem from="1638637196903" duration="2706000" />
+      <workItem from="1638706980931" duration="7314000" />
+      <workItem from="1638719859545" duration="6757000" />
+      <workItem from="1638899310379" duration="9445000" />
+      <workItem from="1638989651678" duration="1953000" />
+      <workItem from="1640101668463" duration="2317000" />
+      <workItem from="1640679828263" duration="8027000" />
+      <workItem from="1640858532057" duration="2369000" />
+      <workItem from="1640877529045" duration="2038000" />
+      <workItem from="1641067835986" duration="1480000" />
+      <workItem from="1641071143350" duration="761000" />
+      <workItem from="1641144409010" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636984655887">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1636984655887" />
+    <state x="0" y="612" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638710244954">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="612" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1638710244954" />
+    <state x="664" y="223" key="#docker-compose.yaml.database:_Compose_Deployment" timestamp="1636813641373">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="664" y="223" key="#docker-compose.yaml.database:_Compose_Deployment/0.0.1920.1032@0.0.1920.1032" timestamp="1636813641373" />
+    <state x="664" y="223" key="#docker-compose.yaml.mongo:_Compose_Deployment" timestamp="1638723583990">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="664" y="223" key="#docker-compose.yaml.mongo:_Compose_Deployment/0.0.1920.1032@0.0.1920.1032" timestamp="1638723583990" />
+    <state x="664" y="223" key="#docker-compose.yaml:_Compose_Deployment" timestamp="1636813633687">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="664" y="223" key="#docker-compose.yaml:_Compose_Deployment/0.0.1920.1032@0.0.1920.1032" timestamp="1636813633687" />
+    <state x="928" y="293" key="FileChooserDialogImpl" timestamp="1636815751009">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="928" y="293" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1636815751009" />
+    <state width="1876" height="272" key="GridCell.Tab.0.bottom" timestamp="1636815649980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1636815649980" />
+    <state width="1876" height="272" key="GridCell.Tab.0.center" timestamp="1636815649980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1636815649980" />
+    <state width="1876" height="272" key="GridCell.Tab.0.left" timestamp="1636815649980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1636815649980" />
+    <state width="1876" height="272" key="GridCell.Tab.0.right" timestamp="1636815649980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1636815649980" />
+    <state x="668" y="94" width="583" height="843" key="find.popup" timestamp="1636821205801">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="668" y="94" width="583" height="843" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1636821205801" />
+    <state x="785" y="286" key="refactoring.ChangeSignatureDialog" timestamp="1637493114238">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="785" y="286" key="refactoring.ChangeSignatureDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1637493114238" />
+    <state x="623" y="223" key="search.everywhere.popup" timestamp="1637429440027">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1637429440027" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/api$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1636815643981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>
